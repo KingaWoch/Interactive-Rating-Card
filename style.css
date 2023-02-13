@@ -46,7 +46,7 @@ body{
 	align-items: center;
 }
 
-h2{
+h1{
 	font-size: 2rem;
 	color: var(--White);
 }
@@ -132,15 +132,12 @@ h2{
 	color: var(--Orange);
 }
 
-
-/* attribution */
-
-
 .attribution{
 	position: absolute;
 	bottom: 0;
 	left: 0;
 	color: var(--White);
+	font-size: 0.6rem;
 }
 
 /* responsiveness */
